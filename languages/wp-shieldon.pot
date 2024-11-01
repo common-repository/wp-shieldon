@@ -1,0 +1,1170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Shieldon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-16 18:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.2.1"
+
+#: includes/class-wpso-admin-settings.php:609 includes/class-wpso-admin-settings.php:617 includes/class-wpso-admin-settings.php:652 includes/class-wpso-admin-settings.php:660 includes/views/setting/ip-manager-strict-login.php:18 includes/views/setting/ip-manager-strict-signup.php:17 includes/views/setting/ip-manager-strict-xmlrpc.php:17 includes/views/setting/ip-manager-strict.php:17
+msgid "(default: off)"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:625 includes/class-wpso-admin-settings.php:633 includes/class-wpso-admin-settings.php:641
+msgid "(default: on)"
+msgstr ""
+
+#: includes/views/security/authentication.php:51
+msgid "(login page)"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-past-seven-days.php:99 includes/views/dashboard/dashboard-yesterday.php:99
+msgid "(Updated daily)"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-this-month.php:99 includes/views/dashboard/dashboard-today.php:99
+msgid "(Updated hourly)"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:99
+msgid "(Updated monthly)"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:35
+msgid "--- please select ---"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:550
+msgid "A simple image CAPTCHA."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:565
+msgid "A string consisting of lowercase and uppercase letters only."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:395 includes/class-wpso-admin-settings.php:429 includes/class-wpso-admin-settings.php:464
+msgid "A visitor who reaches this limit will be temporarily banned."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:202 includes/class-wpso-admin-menu.php:203
+msgid "About"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:156
+msgid "Action Logger"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:129 includes/class-wpso-admin-menu.php:130
+msgid "Action Logs"
+msgstr ""
+
+#: includes/views/dashboard/operation-status.php:107 includes/views/dashboard/overview.php:150
+msgid "Advanced IP address mangement."
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:61 includes/views/dashboard/rule-table.php:27 includes/views/dashboard/session-table.php:67
+msgid "All processes are automatic and instant, so you can ignore them."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:522
+msgid "ALLOW"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:652
+msgid "Allow access to the REST API only for logged-in users."
+msgstr ""
+
+#: includes/views/dashboard/operation-status.php:123 includes/views/dashboard/overview.php:159
+msgid "Allow popular search engines crawl your website."
+msgstr ""
+
+#: includes/views/setting/trusted-bot.php:17
+#, php-format
+msgid "Allow popular search engines to crawl your website. [<a href=\"%s\" target=\"_blank\">list</a>]"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:38
+msgid "Allow this IP address"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1009
+msgid "Allowed by IP component."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:514
+msgid "Allowed by IP manager"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:564
+msgid "An alphanumeric string with lowercase and uppercase characters."
+msgstr ""
+
+#. Description of the plugin
+msgid "An anti-scraping plugin for WordPress."
+msgstr ""
+
+#: includes/views/setting/ip-manager.php:17
+msgid "An IP address or IP/CIDR specification per line."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:252 includes/views/dashboard/operation-status.php:139 includes/views/dashboard/overview.php:169
+msgid "Analyze header information from visitors."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:277
+msgid "Analyze user-agent information from visitors."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:184 includes/class-wpso-admin-menu.php:185 includes/views/security/authentication.php:23
+msgid "Authentication"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:148
+msgid "Automatically clear all logs at 12:00 a.m. every day. Enabling this option will improve performance."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:502 includes/class-wpso-admin-menu.php:997
+msgid "Bing bot"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:134 includes/class-wpso-admin-ip-manager.php:184 includes/class-wpso-admin-ip-manager.php:224 includes/class-wpso-admin-ip-manager.php:263
+msgid "Blacklist"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:506 includes/class-wpso-admin-menu.php:1001
+msgid "Cannot create JS cookies"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:523 includes/views/dashboard/dashboard-last-month.php:69 includes/views/dashboard/dashboard-past-seven-days.php:69 includes/views/dashboard/dashboard-this-month.php:69 includes/views/dashboard/dashboard-today.php:69 includes/views/dashboard/dashboard-yesterday.php:69
+msgid "CAPTCHA"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-past-seven-days.php:28
+msgid "Captcha statistics for the last 7 days."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:28
+msgid "Captcha statistics for the last month."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-this-month.php:28
+msgid "Captcha statistics for this month."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-today.php:28
+msgid "Captcha statistics for today."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-yesterday.php:28
+msgid "Captcha statistics for yesterday."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:87 includes/views/dashboard/dashboard-last-month.php:26 includes/views/dashboard/dashboard-last-month.php:148 includes/views/dashboard/dashboard-past-seven-days.php:26 includes/views/dashboard/dashboard-past-seven-days.php:148 includes/views/dashboard/dashboard-this-month.php:26 includes/views/dashboard/dashboard-this-month.php:148 includes/views/dashboard/dashboard-today.php:26 includes/views/dashboard/dashboard-today.php:148 includes/views/dashboard/dashboard-yesterday.php:26 includes/views/dashboard/dashboard-yesterday.php:148
+msgid "CAPTCHAs"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:420 includes/views/dashboard/operation-status.php:82 includes/views/dashboard/overview.php:131
+msgid "Check HTTP referrer information."
+msgstr ""
+
+#: includes/views/dashboard/operation-status.php:34 includes/views/dashboard/overview.php:104
+msgid "Check if visitors can create cookies via JavaScript."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:455
+msgid "Check the cookie generated by JavaScript."
+msgstr ""
+
+#: includes/views/dashboard/operation-status.php:66 includes/views/dashboard/overview.php:122
+msgid "Check the frequency of page views by a visitor."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:125
+msgid "Choose a data driver for Shieldon to use."
+msgstr ""
+
+#: includes/views/setting/import-export.php:37
+msgid "Choose a JSON file."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:79 includes/views/dashboard/operation-status.php:94 includes/views/dashboard/overview.php:141
+msgid "Components"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1034 includes/class-wpso-admin-settings.php:448 includes/views/dashboard/filter-log-table.php:78 includes/views/dashboard/operation-status.php:26 includes/views/dashboard/overview.php:100
+msgid "Cookie"
+msgstr ""
+
+#: includes/views/setting/about.php:33
+msgid "Core"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:119 includes/views/dashboard/rule-table.php:93 includes/views/dashboard/session-table.php:118
+#, php-format
+msgid "Current data circle started from %s."
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:77
+msgid "D"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:75
+msgid "Daemon"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:368
+msgid "Daily Limit"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:508 includes/class-wpso-admin-menu.php:1003
+msgid "Daily limit reached"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:38
+msgid "Data Circle"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:124
+msgid "Data Driver"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:517
+msgid "Denied by component - Header."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:515
+msgid "Denied by component - IP."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:516
+msgid "Denied by component - RDNS."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:519
+msgid "Denied by component - Trusted Robot."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:518
+msgid "Denied by component - User Agent."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1012
+msgid "Denied by Header component."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1008 includes/class-wpso-admin-menu.php:1010
+msgid "Denied by IP component."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:513
+msgid "Denied by IP manager"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1011
+msgid "Denied by RDNS component."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1013
+msgid "Denied by User-agent component."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:521
+msgid "DENY"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:126 includes/class-wpso-admin-ip-manager.php:165 includes/class-wpso-admin-ip-manager.php:216 includes/class-wpso-admin-ip-manager.php:255
+msgid "Deny All"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:261
+msgid "Deny all vistors without common header information."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:386
+msgid "Detect multiple sessions created by the same visitor."
+msgstr ""
+
+#: includes/views/dashboard/operation-status.php:50 includes/views/dashboard/overview.php:113
+msgid "Detect whether multiple sessions have been created by the same visitor."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:76 includes/views/dashboard/dashboard-past-seven-days.php:76 includes/views/dashboard/dashboard-this-month.php:76 includes/views/dashboard/dashboard-today.php:76 includes/views/dashboard/dashboard-yesterday.php:76
+msgid "displays"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:330
+msgid "Don't worry about human visitors. If they reach the limit and get banned, they can easily continue browsing your website by solving the CAPTCHA."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:137
+msgid "Driver Status"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:507 includes/class-wpso-admin-menu.php:1002
+msgid "Empty referrer"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:109
+msgid "Enable"
+msgstr ""
+
+#: includes/views/security/authentication.php:76
+msgid "encrypted"
+msgstr ""
+
+#: includes/views/security/xss-protection.php:115
+msgid "Eradicate potential injection strings for a single variable."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:596
+msgid "Excluded URLs"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:91
+msgid "Exclusion"
+msgstr ""
+
+#: includes/views/setting/import-export.php:53
+msgid "Export"
+msgstr ""
+
+#: includes/views/setting/import-export.php:50
+msgid "Export all settings to a JSON file."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:75 includes/views/dashboard/dashboard-past-seven-days.php:75 includes/views/dashboard/dashboard-this-month.php:75 includes/views/dashboard/dashboard-today.php:75 includes/views/dashboard/dashboard-yesterday.php:75
+msgid "failed"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:117 includes/views/dashboard/dashboard-past-seven-days.php:117 includes/views/dashboard/dashboard-this-month.php:117 includes/views/dashboard/dashboard-today.php:117 includes/views/dashboard/dashboard-yesterday.php:117
+msgid "failure"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:72
+msgid "File"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:76
+msgid "File system."
+msgstr ""
+
+#: includes/views/security/xss-protection.php:70
+msgid "Filter all variables using the COOKIE method."
+msgstr ""
+
+#: includes/views/security/xss-protection.php:56
+msgid "Filter all variables using the GET method."
+msgstr ""
+
+#: includes/views/security/xss-protection.php:42
+msgid "Filter all variables using the POST method."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:148 includes/class-wpso-admin-menu.php:149 includes/views/dashboard/filter-log-table.php:57
+msgid "Filter Log Table"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:83 includes/views/dashboard/operation-status.php:21 includes/views/dashboard/overview.php:95
+msgid "Filters"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:70
+msgid "Flags"
+msgstr ""
+
+#: includes/views/setting/ip-manager.php:18
+msgid "For example, <code>127.0.0.1</code> (single IP address), <code>127.0.0.0/16</code> (IP range)"
+msgstr ""
+
+#: includes/views/setting/excluded-urls.php:19
+msgid "For example, use <code>/custom-type/</code> instead of <code>www.example.com/custom-type/1/</code> for a web page."
+msgstr ""
+
+#: includes/views/security/authentication.php:51
+msgid "For example:"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1031 includes/views/dashboard/operation-status.php:58 includes/views/dashboard/overview.php:118
+msgid "Frequency"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:324
+msgid "Frequency Check"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:80
+msgid "Global"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:501 includes/class-wpso-admin-menu.php:996
+msgid "Google bot"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:485
+msgid "Google reCaptcha"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:76
+msgid "H"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1028 includes/class-wpso-admin-settings.php:245 includes/views/dashboard/operation-status.php:131 includes/views/dashboard/overview.php:165
+msgid "Header"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:358
+msgid "Hourly Limit"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:509 includes/class-wpso-admin-menu.php:1004
+msgid "Hourly limit reached"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:573
+msgid "How many characters would you like to display on the CAPTCHA?"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:413
+msgid "HTTP Referrer"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/terrylinooo/wp-shieldon"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://terryl.in/"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1014
+msgid "Identified as a fake search engine."
+msgstr ""
+
+#: includes/views/setting/about.php:31
+msgid "If you encounter any issues or find any bugs, please report them at the following URL."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:641
+msgid "If you want to use the theme customizer, please enable this option. Remember to disable it once you are done making changes."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:543
+msgid "Image Captcha"
+msgstr ""
+
+#: includes/views/setting/import-export.php:41
+msgid "Import"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:194 includes/views/setting/import-export.php:20
+msgid "Import / Export"
+msgstr ""
+
+#: includes/views/setting/import-export.php:24
+msgid "Import a JSON file that you previously exported."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:193
+msgid "Import/Export"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:70 includes/views/dashboard/dashboard-past-seven-days.php:70 includes/views/dashboard/dashboard-this-month.php:70 includes/views/dashboard/dashboard-today.php:70 includes/views/dashboard/dashboard-yesterday.php:70
+msgid "In blacklist"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:302
+msgid "In general, an IP address from an Internet Service Provider (ISP) will have reverse DNS set. This option only works when strict mode is enabled."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:71 includes/views/dashboard/dashboard-past-seven-days.php:71 includes/views/dashboard/dashboard-this-month.php:71 includes/views/dashboard/dashboard-today.php:71 includes/views/dashboard/dashboard-yesterday.php:71
+msgid "In queue"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:67
+msgid "In-memory database."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:305
+msgid "Invalid configuration file."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:512
+msgid "Invalid IP"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1007
+msgid "Invalid IP address."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:272
+msgid "Invalid JSON file."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1026 includes/views/dashboard/dashboard-last-month.php:66 includes/views/dashboard/dashboard-past-seven-days.php:66 includes/views/dashboard/dashboard-this-month.php:66 includes/views/dashboard/dashboard-today.php:66 includes/views/dashboard/dashboard-yesterday.php:66 includes/views/dashboard/filter-log-table.php:67 includes/views/dashboard/operation-status.php:99 includes/views/dashboard/overview.php:146 includes/views/dashboard/rule-table.php:58 includes/views/dashboard/session-table.php:76
+msgid "IP"
+msgstr ""
+
+#: includes/views/setting/rdns.php:21
+msgid "IP address without a PTR record."
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:118 includes/class-wpso-admin-ip-manager.php:141 includes/class-wpso-admin-ip-manager.php:157 includes/class-wpso-admin-ip-manager.php:191 includes/class-wpso-admin-ip-manager.php:208 includes/class-wpso-admin-ip-manager.php:231 includes/class-wpso-admin-ip-manager.php:247 includes/class-wpso-admin-ip-manager.php:270
+msgid "IP List"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:166 includes/class-wpso-admin-menu.php:167
+msgid "IP Manager"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:165
+msgid "IP Source"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:166
+msgid "Is your website behind a CDN service? If you are using a CDN, you need to configure this setting; otherwise, all IP addresses will appear to come from the CDN servers and may be mistakenly banned."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:533
+msgid "ISO 639 - ISO 3166 code. For example, <strong>zh-TW</strong> stands for Tranditional Chinese of <strong>Taiwan</strong>"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:206
+msgid "Keep Alive Period"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:40
+msgid "Keep-alive period. (minutes)"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:532
+msgid "Language Code"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:49 includes/views/dashboard/dashboard-past-seven-days.php:49 includes/views/dashboard/dashboard-this-month.php:49 includes/views/dashboard/dashboard-today.php:49 includes/views/dashboard/dashboard-yesterday.php:49
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:51 includes/views/dashboard/dashboard-past-seven-days.php:51 includes/views/dashboard/dashboard-this-month.php:51 includes/views/dashboard/dashboard-today.php:51 includes/views/dashboard/dashboard-yesterday.php:51
+msgid "Last month"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:71
+msgid "Last visit"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:572
+msgid "Length"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:27
+msgid "Limit"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:85 includes/class-wpso-admin-settings.php:608
+msgid "Login"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:75
+msgid "M"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:499 includes/class-wpso-admin-menu.php:994
+msgid "Manually added by the administrator"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:348
+msgid "Minutely Limit"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:510 includes/class-wpso-admin-menu.php:1005
+msgid "Minutely limit reached"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:54
+msgid "MySQL"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:157
+msgid "Not recommend for high-traffic webites."
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:68
+msgid "Notice this is only working when you have enabled that function."
+msgstr ""
+
+#: includes/views/setting/trusted-bot.php:19
+msgid "Notice: Turning this option off will impact your SEO because the bots will be going to checking process."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:566
+msgid "Numeric string only."
+msgstr ""
+
+#: includes/views/setting/excluded-urls.php:18
+msgid "One URL per line."
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:48
+msgid "Online"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:196
+msgid "Online Limit"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:50
+msgid "Online session amount."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:181
+msgid "Online Session Limit"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:29
+msgid "Online session limit."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:119 includes/class-wpso-admin-menu.php:120
+msgid "Operation Status"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:110 includes/class-wpso-admin-menu.php:111
+msgid "Overview"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:369
+msgid "Page views per vistor per day."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:359
+msgid "Page views per vistor per hour."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:349
+msgid "Page views per vistor per minute."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:339
+msgid "Page views per vistor per second."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:602
+msgid "Pages"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:36 includes/views/dashboard/dashboard-last-month.php:68 includes/views/dashboard/dashboard-last-month.php:148 includes/views/dashboard/dashboard-past-seven-days.php:36 includes/views/dashboard/dashboard-past-seven-days.php:68 includes/views/dashboard/dashboard-past-seven-days.php:148 includes/views/dashboard/dashboard-this-month.php:36 includes/views/dashboard/dashboard-this-month.php:68 includes/views/dashboard/dashboard-this-month.php:148 includes/views/dashboard/dashboard-today.php:36 includes/views/dashboard/dashboard-today.php:68 includes/views/dashboard/dashboard-today.php:148 includes/views/dashboard/dashboard-yesterday.php:36 includes/views/dashboard/dashboard-yesterday.php:68 includes/views/dashboard/dashboard-yesterday.php:148 includes/views/dashboard/filter-log-table.php:69
+msgid "Pageviews"
+msgstr ""
+
+#: includes/views/security/authentication.php:40
+msgid "Pass"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:174
+msgid "Passcode"
+msgstr ""
+
+#: includes/views/security/authentication.php:76
+msgid "Password"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-today.php:222
+msgid "Past 7 hours"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:38
+msgid "Period"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:37
+msgid "Permanently deny this IP address"
+msgstr ""
+
+#: includes/views/setting/ip-manager-login-pass.php:19
+msgid "Please enter a passcode known only to you. You can use it to bypass IP checks if your IP is not whitelisted."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:523
+msgid "Please enter the Google reCaptcha secret key for your website."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:513
+msgid "Please enter the Google reCaptcha site key for your website."
+msgstr ""
+
+#: includes/views/setting/excluded-urls.php:17
+msgid "Please enter the URLs that you want to exclude from Shieldon protection. These URLs should <strong>begin with</strong> the specified value."
+msgstr ""
+
+#: includes/views/setting/ip-manager-strict-login.php:22
+msgid "Please exercise caution when using this option. Be mindful not to block yourself. In the event of being blocked, the only way to resolve the issue is to manually delete this plugin."
+msgstr ""
+
+#: includes/views/message/php-version-warning.php:21
+msgid "Please uninstall WP Shieldon or upgrade your PHP version."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:312
+msgid "Please upload a JSON file."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:501
+msgid "Please use the corresponding key for the chosen version; otherwise, it will not work."
+msgstr ""
+
+#: includes/views/setting/about.php:34
+msgid "Plugin"
+msgstr ""
+
+#: includes/views/security/xss-protection.php:26
+msgid "Prevent cross-site scripting (XSS) attacks."
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:73
+msgid "Priority"
+msgstr ""
+
+#: includes/views/setting/rdns.php:23
+msgid "PTR is not a valid fully qualified domain name (FQDN)."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:394 includes/class-wpso-admin-settings.php:428 includes/class-wpso-admin-settings.php:463
+msgid "Quota"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1029 includes/views/dashboard/operation-status.php:147 includes/views/dashboard/overview.php:175
+msgid "RDNS"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:67
+msgid "Read-time logs for <strong>Online Session Controll</strong>."
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:61
+msgid "Reason"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:157
+msgid "Record every visitor’s behavior."
+msgstr ""
+
+#: includes/views/dashboard/overview.php:63
+msgid "Redis"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1032 includes/views/dashboard/filter-log-table.php:80 includes/views/dashboard/operation-status.php:74 includes/views/dashboard/overview.php:127
+msgid "Referrer"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:78
+msgid "Remain seconds"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:63 includes/views/security/authentication.php:77 includes/views/security/xss-protection.php:141
+msgid "Remove"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:39
+msgid "Remove this IP"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:97 includes/views/dashboard/dashboard-past-seven-days.php:97 includes/views/dashboard/dashboard-this-month.php:97 includes/views/dashboard/dashboard-today.php:97 includes/views/dashboard/dashboard-yesterday.php:97
+msgid "Report generation time"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:244
+msgid "Report issues"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:147
+msgid "Reset Data Cycle"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:68 includes/views/dashboard/rule-table.php:59
+msgid "Resolved hostname"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:632 includes/class-wpso-admin-settings.php:651
+msgid "REST API"
+msgstr ""
+
+#: includes/views/setting/ip-manager-strict-login.php:18
+msgid "Restrict access to the login page to only IPs in the whitelist."
+msgstr ""
+
+#: includes/class-wpso-tweak-wp-core.php:50
+msgid "Restrict access to the REST API to authenticated users only."
+msgstr ""
+
+#: includes/views/setting/ip-manager-strict-signup.php:17
+msgid "Restrict access to the signup page to only IPs in the whitelist."
+msgstr ""
+
+#: includes/views/setting/ip-manager-strict-xmlrpc.php:17
+msgid "Restrict access to XML-RPC to only IPs in the whitelist."
+msgstr ""
+
+#: includes/views/setting/ip-manager-strict.php:17
+msgid "Restrict access to your website to only IPs in the whitelist."
+msgstr ""
+
+#: includes/views/setting/rdns.php:22
+msgid "Returned value of pinging PTR and IP address doesn not match up."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:295
+msgid "Reverse DNS"
+msgstr ""
+
+#: includes/views/dashboard/overview.php:44 includes/views/dashboard/overview.php:45 includes/views/dashboard/overview.php:46
+msgid "rows"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:139 includes/class-wpso-admin-menu.php:140 includes/views/dashboard/rule-table.php:23
+msgid "Rule Table"
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:74
+msgid "S"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:500 includes/class-wpso-admin-menu.php:995
+msgid "Search engine bot"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:338
+msgid "Secondly Limit"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:511 includes/class-wpso-admin-menu.php:1006
+msgid "Secondly limit reached"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:522
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1033 includes/class-wpso-admin-settings.php:379 includes/views/dashboard/filter-log-table.php:79 includes/views/dashboard/operation-status.php:42 includes/views/dashboard/overview.php:109
+msgid "Session"
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:75
+msgid "Session ID"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:157 includes/class-wpso-admin-menu.php:158 includes/views/dashboard/session-table.php:64
+msgid "Session Table"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:67 includes/views/dashboard/dashboard-past-seven-days.php:67 includes/views/dashboard/dashboard-this-month.php:67 includes/views/dashboard/dashboard-today.php:67 includes/views/dashboard/dashboard-yesterday.php:67
+msgid "Sessions"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:101 includes/class-wpso-admin-menu.php:102 includes/class-wpso-admin-menu.php:224
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:90 includes/class-wpso-admin-settings.php:616
+msgid "Signup"
+msgstr ""
+
+#: includes/views/security/xss-protection.php:88
+msgid "Single variable"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:512
+msgid "Site Key"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:74 includes/views/dashboard/dashboard-past-seven-days.php:74 includes/views/dashboard/dashboard-this-month.php:74 includes/views/dashboard/dashboard-today.php:74 includes/views/dashboard/dashboard-yesterday.php:74
+msgid "solved"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:633
+msgid "Some WordPress core functions such as \"Save Draft\" and REST API use \"<strong>/wp-json/</strong>\"."
+msgstr ""
+
+#: includes/views/dashboard/overview.php:58 includes/views/dashboard/overview.php:86
+msgid "SQL database."
+msgstr ""
+
+#: includes/views/dashboard/overview.php:82
+msgid "SQLite"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:116
+msgid "Start protecting your website by implementing Shieldon. This plugin only works when this option is enabled."
+msgstr ""
+
+#: includes/views/dashboard/session-table.php:74
+msgid "Status"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:235 includes/class-wpso-admin-settings.php:260 includes/class-wpso-admin-settings.php:285 includes/class-wpso-admin-settings.php:310
+msgid "Strict Mode"
+msgstr ""
+
+#: includes/views/setting/rdns.php:18
+msgid "Strict mode blocks visitors by the following conditions."
+msgstr ""
+
+#: includes/views/message/update-notice.php:21
+msgid "Strict mode in each Shieldon component has been disabled. Please carefully review all setting options again."
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:41 includes/views/security/authentication.php:47 includes/views/security/xss-protection.php:77 includes/views/security/xss-protection.php:110
+msgid "Submit"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:117 includes/views/dashboard/dashboard-past-seven-days.php:117 includes/views/dashboard/dashboard-this-month.php:117 includes/views/dashboard/dashboard-today.php:117 includes/views/dashboard/dashboard-yesterday.php:117
+msgid "success"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:36
+msgid "Temporarily deny this IP address"
+msgstr ""
+
+#. Author of the plugin
+msgid "Terry Lin"
+msgstr ""
+
+#: includes/views/security/authentication.php:26
+msgid "The HTTP WWW-Authenticate response header defines the authentication method that should be used to gain access to a resource."
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:62
+msgid "The IP log table will be completely cleared once a new cycle begins."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:197
+msgid "The maximum online user limit."
+msgstr ""
+
+#: includes/views/message/php-version-warning.php:20
+#, php-format
+msgid "The minimum required PHP version for WP Shieldon is PHP <strong>7.1.0</strong>, and yours is <strong>%1s</strong>."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:236
+msgid "The resolved hostname and IP address must match."
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:28
+msgid "The rule table will be reset once a new cycle begins."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:640
+msgid "Theme Customizer"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:26
+msgid "This is where Shieldon temporarily allows or denies users in the current cycle."
+msgstr ""
+
+#: includes/views/dashboard/filter-log-table.php:60
+msgid "This is where the Shieldon records the users' strange behavior."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:50 includes/views/dashboard/dashboard-past-seven-days.php:50 includes/views/dashboard/dashboard-this-month.php:50 includes/views/dashboard/dashboard-today.php:50 includes/views/dashboard/dashboard-yesterday.php:50
+msgid "This month"
+msgstr ""
+
+#: includes/views/security/authentication.php:52
+msgid "This must be a path that it begins with a slash (/)"
+msgstr ""
+
+#: includes/views/setting/rdns.php:26
+msgid "This option will deny almost Proxy and VPN servers on the Internet, and some ISP might not provide PTR for their IP addresses, therefore using it carefully."
+msgstr ""
+
+#: includes/views/setting/google-recaptcha.php:18
+#, php-format
+msgid "This options needs Google reCaptcha key to work. [<a href=\"%s\" target=\"_blank\">apply</a>]"
+msgstr ""
+
+#: includes/views/dashboard/rule-table.php:62 includes/views/dashboard/session-table.php:77
+msgid "Time"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:102 includes/views/dashboard/dashboard-past-seven-days.php:102 includes/views/dashboard/dashboard-this-month.php:102 includes/views/dashboard/dashboard-today.php:102 includes/views/dashboard/dashboard-yesterday.php:102 includes/views/dashboard/filter-log-table.php:120 includes/views/dashboard/rule-table.php:94 includes/views/dashboard/session-table.php:119 includes/views/security/authentication.php:95 includes/views/security/xss-protection.php:158
+msgid "Timezone"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:47 includes/views/dashboard/dashboard-past-seven-days.php:47 includes/views/dashboard/dashboard-this-month.php:47 includes/views/dashboard/dashboard-today.php:47 includes/views/dashboard/dashboard-yesterday.php:47
+msgid "Today"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:505 includes/class-wpso-admin-menu.php:1000
+msgid "Too many accesses"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:504 includes/class-wpso-admin-menu.php:999
+msgid "Too many sessions"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-past-seven-days.php:38
+msgid "Total pageviews last 7 days."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:38
+msgid "Total pageviews last month."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-this-month.php:38
+msgid "Total pageviews this month."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-today.php:38
+msgid "Total pageviews today."
+msgstr ""
+
+#: includes/views/dashboard/dashboard-yesterday.php:38
+msgid "Total pageviews yesterday."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1027 includes/views/dashboard/operation-status.php:115 includes/views/dashboard/overview.php:155
+msgid "Trusted Bot"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:220
+msgid "Trusted Bots"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:660
+msgid "Turning this option on to disable XML-RPC function."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:641
+msgid "Turning this option on will get <code>/?customize_changeset_uuid=</code> excluded from Shieldon protection."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:633
+msgid "Turning this option on will get <code>/wp-json/</code> excluded from Shieldon protection."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:609
+msgid "Turning this option on will get <code>wp-login.php</code> excluded from Shieldon protection."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:617
+msgid "Turning this option on will get <code>wp-signup.php</code> excluded from Shieldon protection."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:625
+msgid "Turning this option on will get <code>xmlrpc.php</code> excluded from Shieldon protection."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:558 includes/views/dashboard/rule-table.php:60 includes/views/security/xss-protection.php:99 includes/views/security/xss-protection.php:139
+msgid "Type"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:207
+msgid "Unit: minute"
+msgstr ""
+
+#: includes/views/security/authentication.php:32 includes/views/security/authentication.php:74
+msgid "URL Path"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:590
+msgid "URLs"
+msgstr ""
+
+#: includes/views/security/authentication.php:36
+msgid "User"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:1030 includes/class-wpso-admin-settings.php:270
+msgid "User Agent"
+msgstr ""
+
+#: includes/views/security/authentication.php:75
+msgid "Username"
+msgstr ""
+
+#: includes/views/setting/ip-manager-login-pass.php:22
+msgid "Using the following URL makes your login URL accessible in <strong>Deny All</strong> mode."
+msgstr ""
+
+#: includes/views/security/xss-protection.php:140
+msgid "Variable"
+msgstr ""
+
+#: includes/views/security/xss-protection.php:95
+msgid "Variable Name"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:500
+msgid "Version"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:243
+msgid "View GitHub project"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:286
+msgid "Visitors with empty user-agent information will be blocked."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:188
+msgid "When the online user amount has reached the limit, other users not in the queue have to line up!"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:111 includes/class-wpso-admin-ip-manager.php:150 includes/class-wpso-admin-ip-manager.php:201 includes/class-wpso-admin-ip-manager.php:240
+msgid "Whitelist"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-wpso-admin-menu.php:91 includes/class-wpso-admin-menu.php:92
+msgid "WP Shieldon"
+msgstr ""
+
+#: includes/views/message/update-notice.php:20
+msgid "WP Shieldon has been updated successfully. Please reset the data cycle and then enable the daemon."
+msgstr ""
+
+#: includes/views/setting/about.php:21
+#, php-format
+msgid "WP Shieldon is brought to you by <a href=\"%1$s\">Terry L.</a> from <a href=\"%2$s\">Taiwan</a>."
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:95
+msgid "WP Tweaks"
+msgstr ""
+
+#: includes/class-wpso-admin-ip-manager.php:95 includes/class-wpso-admin-settings.php:624
+msgid "XML RPC"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:659
+msgid "XML-RPC"
+msgstr ""
+
+#: includes/class-wpso-admin-settings.php:660
+msgid "XML-RPC is necessary when using client software such as WordPress mobile apps, Windows Live Writer, and others. Disabling it enhances security if you are not using these applications."
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:175 includes/class-wpso-admin-menu.php:176 includes/views/security/xss-protection.php:23
+msgid "XSS Protection"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:503 includes/class-wpso-admin-menu.php:998
+msgid "Yahoo bot"
+msgstr ""
+
+#: includes/views/dashboard/dashboard-last-month.php:48 includes/views/dashboard/dashboard-past-seven-days.php:48 includes/views/dashboard/dashboard-this-month.php:48 includes/views/dashboard/dashboard-today.php:48 includes/views/dashboard/dashboard-yesterday.php:48
+msgid "Yesterday"
+msgstr ""
+
+#: includes/class-wpso-admin-menu.php:300
+msgid "Your configuration file has been imported successfully."
+msgstr ""
